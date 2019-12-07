@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         contactsList.add(new Contacts("Pinterest weekly","09:04pm","Pins you'll love",
                 "Have you seen these pins yet? Pinterest",R.drawable.p));
         contactsList.add(new Contacts("John","01:04pm","Hey john",
-                "How are you? Pinterest",R.drawable.j));
+                "How are you? John",R.drawable.j));
 
 
         ContactsAdapter contactsAdapter = new ContactsAdapter(this, contactsList);
