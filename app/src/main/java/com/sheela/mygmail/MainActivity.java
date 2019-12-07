@@ -25,6 +25,9 @@ public class MainActivity extends AppCompatActivity {
                 "A lot has happened on Facebook since.",R.drawable.f));
         contactsList.add(new Contacts("Google+","18:44pm","Top suggested Google+ pages for you",
                 "Top suggested Google+ pages for you",R.drawable.g));
+        contactsList.add(new Contacts("Twitter","20:04pm","Follow T-Mobiles, Samsumg Mobiles",
+                "James,some peoplw you may know",R.drawable.t));
+
         contactsList.add(new Contacts("Pinterest weekly","09:04pm","Pins you'll love",
                 "Have you seen these pins yet? Pinterest",R.drawable.p));
         contactsList.add(new Contacts("John","01:04pm","Hey john",
